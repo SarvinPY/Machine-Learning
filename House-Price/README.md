@@ -1,6 +1,6 @@
 <h1 align="center">Regression Project</h1>
 
-For this project, we have prepared data for approximately 4,000 apartments in Tehran. All the data is completely real. Your task is to estimate the price in dollars or tomans using the features of the dataset that we have explained below. The data is stored in the [housePrice.csv](لینک_فایل_اینجا) file.
+For this project, we have prepared data for approximately 4,000 apartments in Tehran. All the data is completely real. Your task is to estimate the price in dollars or tomans using the features of the dataset that we have explained below. The data is stored in the [housePrice.csv](https://github.com/SarvinPY/Machine-Learning/blob/main/House-Price/house-price.csv) file.
 
 - Area (in square meters)
 - Number of bedrooms (Room)
