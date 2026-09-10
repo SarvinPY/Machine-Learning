@@ -13,4 +13,4 @@ For this project, we have prepared data for approximately 4,000 apartments in Te
 
 <br>
 
-In this dataset, some houses do not have an address, and the area of some houses has been entered incorrectly (a very large value). For this reason, you must manage these items and remove them from your dataset.
+⚠️ In this dataset, some houses do not have an address, and the area of some houses has been entered incorrectly (a very large value). For this reason, you must manage these items and remove them from your dataset.
